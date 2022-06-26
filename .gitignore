@@ -1,0 +1,30 @@
+/* Takip Edilmesini İstemediğim Dosyalar */
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+
+# img
+*.jpg
+*.png
+img/
+
+
+# videos
+*.mp4
+
+
+# packages
+
+
+# log
+*.log
+
+
+# txt
+password.txt
+*.txt
